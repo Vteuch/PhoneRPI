@@ -15,7 +15,7 @@ import signal
 PICKUP_BUTTON = 23
 TIMEMAXREC = 60  # maximum recording time (sec)
 
-BASEDIRECTORY = "/home/rasphone/share"
+BASEDIRECTORY = "/home/phone/RPIPhone"
 RECORDDIRECTORY = f"{BASEDIRECTORY}/record"
 AUDIODIRECTORY = f"{BASEDIRECTORY}/Audio"
 AUDIOFILES = {
