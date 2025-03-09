@@ -17,7 +17,7 @@ TIMEMAXREC = 60  # maximum recording time (sec)
 
 BASEDIRECTORY = "/home/rasphone/share"
 RECORDDIRECTORY = f"{BASEDIRECTORY}/record"
-AUDIODIRECTORY = f"{BASEDIRECTORY}/audio_files"
+AUDIODIRECTORY = f"{BASEDIRECTORY}/Audio"
 AUDIOFILES = {
     "accueil": f"{AUDIODIRECTORY}/accueil.wav",
     "menu": f"{AUDIODIRECTORY}/menu.wav",
